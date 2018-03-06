@@ -1,0 +1,68 @@
+Entire list sorted:
+Anderson, Andy       Sophomore 3.01
+Brown, Bill          Sophomore 2.55
+Brown, Davis         Freshman  2.00
+Crooks, Cathy        Freshman  1.99
+Dennis, Susan        Senior    2.06
+Edwards, James       Sophomore 3.00
+Fredricks, Mary      Freshman  2.89
+Green, Barbara       Sophomore 3.67
+Gregg, Howard        Senior    2.44
+Holmes, Wendy        Senior    2.56
+Johnson, Jane        Junior    3.75
+Johnson, Jim         Junior    3.05
+Koran, Korn          Junior    3.50
+Nicholas, Judy       Senior    3.69
+Potter, Pam          Senior    2.98
+Roberts, Rachel      Sophomore 4.00
+Robertson, Jully     Junior    2.78
+Smith, Sam           Junior    2.14
+Smith, Sheila        Senior    2.99
+Walsh, Fred          Junior    4.00
+White, Bob           Sophomore 1.64
+Williams, Leonard    Freshman  1.85
+Williamson, Walt     Sophomore 2.95
+Wiser, Bud           Freshman  4.00
+****************************************
+GPA of entire college is 2.8608
+****************************************
+Freshman list is: 
+Brown, Davis        
+Crooks, Cathy       
+Fredricks, Mary     
+Williams, Leonard   
+Wiser, Bud          
+****************************************
+Average Freshman GPA is 2.5460000000000003
+****************************************
+Sophomore list is: 
+Anderson, Andy      
+Brown, Bill         
+Edwards, James      
+Green, Barbara      
+Roberts, Rachel     
+White, Bob          
+Williamson, Walt    
+Carson, Jim         
+****************************************
+Average Sophomore GPA is 2.8562499999999997
+****************************************
+Junior list is: 
+Johnson, Jane       
+Johnson, Jim        
+Koran, Korn         
+Robertson, Jully    
+Smith, Sam          
+Walsh, Fred         
+****************************************
+Average Junior GPA is 3.203333333333333
+****************************************
+Senior list is: 
+Dennis, Susan       
+Gregg, Howard       
+Holmes, Wendy       
+Nicholas, Judy      
+Potter, Pam         
+Smith, Sheila       
+****************************************
+Average Senior GPA is 2.7866666666666666
